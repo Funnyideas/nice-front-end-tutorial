@@ -28,7 +28,7 @@
 
 ### 国外
 
-- [A JS tip per day! ](http://www.jstips.co)
+- [uk49s ](https://uk49sresult.co.uk)
 - [DeveloperDrive.com](https://www.developerdrive.com/)
 - [CodePen - Front End Developer Playground](https://codepen.io/)
 - [Reloading – Medium](https://medium.com/reloading)
